@@ -10,7 +10,7 @@ SAHAY AI is an AI-inspired accessibility platform designed to help people unders
 
 🌐 **Working Website:**  
 
-https://sahay-ai-roan.vercel.app
+https://sahay-ai-6l1s.vercel.app
 
 > Replace the URL above with your actual Vercel deployment URL.
 
